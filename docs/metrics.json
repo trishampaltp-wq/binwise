@@ -1,0 +1,36 @@
+{
+  "label": "Synthetic prototype estimates, initial 08:00 snapshot",
+  "smart": {
+    "stops": 8,
+    "km": 48.27260989760933,
+    "fuel": 13.792174256459807,
+    "litres": 4820,
+    "litresPerKm": 99.84958365051456
+  },
+  "fixed": {
+    "stops": 24,
+    "km": 74.04839173723313,
+    "fuel": 21.15668335349518,
+    "litres": 10922,
+    "litresPerKm": 147.49813930811115
+  },
+  "saved": {
+    "km": 25.775781839623804,
+    "fuel": 7.364509097035373,
+    "percent": 34.80937429551651,
+    "fuelCost": 699.6283642183604
+  },
+  "fourHourScenario": {
+    "noDispatchOverflowed": 5,
+    "smartDispatchOverflowed": 0,
+    "atRiskBinsServiced": 8,
+    "collectedLitres": 5040.799999999997
+  },
+  "assumptions": {
+    "roadFactor": 1.3,
+    "kmPerLitre": 3.5,
+    "speedKmh": 18,
+    "stopMinutes": 6,
+    "fuelPriceINR": 95
+  }
+}
